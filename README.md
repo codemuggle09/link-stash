@@ -2,6 +2,10 @@
 
 We often come across links—articles, videos, tools—that we find valuable and wish to revisit later. But more often than not, we forget to save them properly. Link Collector solves this with a minimalist, personal bookmarking tool that lives in your browser.
 
+## Live Demo
+
+Check out the live version here: [https://link-stash-six.vercel.app](https://link-stash-six.vercel.app)
+
 ## Overview
 
 Link Collector is a lightweight single-page app that lets users save useful links with a title and category, and view them neatly grouped. It runs entirely in the browser using localStorage—no signups, no backend.
@@ -31,7 +35,7 @@ Link Collector is a lightweight single-page app that lets users save useful link
 - Rounded corners, clean layout, and soft shadows
 - Fully responsive – works on both desktop and mobile
 
-## Bonus Features
+## Bonus Features 
 
 - Filter dropdown to view links by category
 - Alphabetical sorting within categories
