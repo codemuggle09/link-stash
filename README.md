@@ -1,6 +1,6 @@
 # Link Collector
 
-We often come across links—articles, videos, tools—that we find valuable and wish to revisit later. But more often than not, we forget to save them properly. Link Collector solves this with a minimalist, personal bookmarking tool that lives in your browser.
+We often come across links of articles, videos, tools that we find valuable and wish to revisit later. But more often than not, we forget to save them properly. Link Collector solves this with a minimalist, personal bookmarking tool that lives in your browser.
 
 ## Live Demo
 
@@ -8,15 +8,15 @@ Check out the live version here: [https://link-stash-six.vercel.app](https://lin
 
 ## Overview
 
-Link Collector is a lightweight single-page app that lets users save useful links with a title and category, and view them neatly grouped. It runs entirely in the browser using localStorage—no signups, no backend.
+Link Collector is a lightweight single-page app that lets users save useful links with a title and category, and view them neatly grouped. It runs entirely in the browser using localStorage, no signups, no backend.
 
 ## Features
 
 ### 1. Add a Link
 - Input fields:
-  - Title (e.g., "CSS Animations Guide")
-  - URL (e.g., https://css-tricks.com/)
-  - Category (e.g., CSS, Reading List, JavaScript)
+  - Title (e.g., "internship calender")
+  - URL (e.g., https://geeks-for-geeks.com/)
+  - Category (e.g., dev, Reading List, JavaScript)
 - A “Save Link” button to store the entry.
 
 ### 2. Display Saved Links
