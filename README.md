@@ -31,7 +31,7 @@ Link Collector is a lightweight single-page app that lets users save useful link
 - Rounded corners, clean layout, and soft shadows
 - Fully responsive – works on both desktop and mobile
 
-## Bonus Features (Optional)
+## Bonus Features
 
 - Filter dropdown to view links by category
 - Alphabetical sorting within categories
